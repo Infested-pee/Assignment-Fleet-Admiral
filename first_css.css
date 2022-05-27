@@ -1,0 +1,20 @@
+h2 {
+    font-size: 40px; /* Title font size change */
+ }
+
+ #firstParagraph {
+     font-size: 16px;
+     font-family:Verdana, sans-serif; /* first paragraph font and size change */
+ }
+
+ #countdownTimer {
+     font-size: 30px;
+     font-family: Verdana, sans-serif; /* font and size for countdown timer when you click on "start" */
+ }
+
+ body {
+    background-image: url(Starsinthesky.jpg); /* background image, attack to top left, selected cover to stretch on the screen instead of it doing it past it */
+    background-position: top left;
+    background-size: cover;
+ }
+
